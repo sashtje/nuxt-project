@@ -1,0 +1,14 @@
+.page {
+    font-size: 18px;
+
+    display: flex;
+    gap: 20px;
+}
+
+.nav {
+    width: 100px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
